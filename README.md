@@ -1,0 +1,1 @@
+Discord Bot named Bot9078 in MLH_Projects server in Discord, created for MLH AI/ML Hackathon Day 3 Challenge
